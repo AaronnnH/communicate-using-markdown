@@ -11,3 +11,7 @@ int main()
   return 0;
 }
 ```
+
+- [ ] Finish this assignment
+- [ ] Complete the next assignment
+- [ ] Week 1 complete
